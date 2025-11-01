@@ -34,15 +34,15 @@ public class HealthTracker {
             switch (choice) {
                 case 1:
                     System.out.println("Adding Activity Record...");
-                    // later: call ActivityRecord class
+                    // call ActivityRecord class
                     break;
                 case 2:
                     System.out.println("Adding Diet Record...");
-                    // later: call DietRecord class
+                    // call DietRecord class
                     break;
                 case 3:
                     System.out.println("Displaying All Records...");
-                    // later: print records
+                    // print records
                     break;
                 case 4:
                     System.out.println("Exiting Smart Health Tracker. Goodbye!");
